@@ -1,0 +1,10 @@
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_state.c:69:13:set_state	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_state.c:77:16:net_state_initialized	5
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_state.c:110:16:net_state_starting	4
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_state.c:136:16:net_state_ready	5
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_state.c:169:16:net_state_connecting	3
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_state.c:190:16:net_state_connected	6
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_state.c:221:16:net_state_disconnecting	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_state.c:238:16:net_state_stopping	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_state.c:255:16:net_state_connection_lost	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_state.c:272:9:net_state_manage_event	10

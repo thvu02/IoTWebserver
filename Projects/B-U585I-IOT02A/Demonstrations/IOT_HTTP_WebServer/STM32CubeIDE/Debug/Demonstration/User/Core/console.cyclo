@@ -1,0 +1,6 @@
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:50:25:webserver_console_config	3
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:85:6:webserver_console_print_header	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:98:25:webserver_console_get_ssid	11
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:156:25:webserver_console_get_password	12
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:232:1:__io_putchar	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/console.c:246:1:__io_getchar	2

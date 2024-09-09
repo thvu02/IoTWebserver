@@ -1,0 +1,15 @@
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:141:9:BSP_GetVersion	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:150:16:BSP_GetBoardName	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:159:16:BSP_GetBoardID	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:172:9:BSP_LED_Init	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:200:9:BSP_LED_DeInit	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:221:9:BSP_LED_On	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:239:9:BSP_LED_Off	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:257:9:BSP_LED_Toggle	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:275:9:BSP_LED_GetState	4
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:305:9:BSP_PB_Init	3
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:359:9:BSP_PB_DeInit	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:385:9:BSP_PB_GetState	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:395:6:BSP_PB_IRQHandler	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:405:13:BSP_PB_Callback	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a.c:634:13:BUTTON_USER_EXTI_Callback	1

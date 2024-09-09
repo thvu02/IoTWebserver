@@ -1,0 +1,7 @@
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_address.c:42:9:net_ntoa_r	8
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_address.c:94:9:net_ntoa	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_address.c:110:9:net_aton	38
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_address.c:273:9:net_aton_r	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_address.c:294:10:net_get_port	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_address.c:305:6:net_set_port	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Middlewares/ST/STM32_Network_Library/core/net_address.c:326:15:net_get_ip_addr	1

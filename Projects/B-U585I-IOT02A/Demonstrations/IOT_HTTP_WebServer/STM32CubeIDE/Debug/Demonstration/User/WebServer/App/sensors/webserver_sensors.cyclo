@@ -1,0 +1,10 @@
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/sensors/webserver_sensors.c:35:5:webserver_sensors_start	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/sensors/webserver_sensors.c:56:5:webserver_temp_sensor_start	3
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/sensors/webserver_sensors.c:91:5:webserver_temp_sensor_stop	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/sensors/webserver_sensors.c:106:5:webserver_temp_sensor_read	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/sensors/webserver_sensors.c:121:5:webserver_press_sensor_start	3
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/sensors/webserver_sensors.c:156:5:webserver_press_sensor_stop	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/sensors/webserver_sensors.c:171:5:webserver_press_sensor_read	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/sensors/webserver_sensors.c:186:5:webserver_humid_sensor_start	3
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/sensors/webserver_sensors.c:222:5:webserver_humid_sensor_stop	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/sensors/webserver_sensors.c:237:5:webserver_humid_sensor_read	1

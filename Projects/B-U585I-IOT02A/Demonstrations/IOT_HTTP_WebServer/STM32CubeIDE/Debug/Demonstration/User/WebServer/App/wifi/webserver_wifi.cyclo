@@ -1,0 +1,10 @@
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/wifi/webserver_wifi.c:65:25:webserver_wifi_init	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/wifi/webserver_wifi.c:84:32:wifi_get_credentials	3
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/wifi/webserver_wifi.c:106:25:webserver_wifi_connect	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/wifi/webserver_wifi.c:141:13:hnet_notify	11
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/wifi/webserver_wifi.c:232:32:Wifi_SPI_Config	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/wifi/webserver_wifi.c:274:13:Wifi_IO_Init	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/wifi/webserver_wifi.c:341:6:HAL_GPIO_EXTI_Rising_Callback	3
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/wifi/webserver_wifi.c:372:6:HAL_SPI_RxCpltCallback	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/wifi/webserver_wifi.c:386:6:HAL_SPI_TxCpltCallback	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/App/wifi/webserver_wifi.c:400:6:HAL_SPI_TxRxCpltCallback	2

@@ -1,0 +1,6 @@
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/Components/mx_wifi/core/mx_rtos_abs.c:92:9:noos_sem_signal	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/Components/mx_wifi/core/mx_rtos_abs.c:109:9:noos_sem_wait	5
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/Components/mx_wifi/core/mx_rtos_abs.c:135:9:noos_fifo_init	4
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/Components/mx_wifi/core/mx_rtos_abs.c:167:6:noos_fifo_deinit	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/Components/mx_wifi/core/mx_rtos_abs.c:176:9:noos_fifo_push	5
+C:/Users/trung/UCLA/VScode/iotwebserver/Drivers/BSP/Components/mx_wifi/core/mx_rtos_abs.c:203:7:noos_fifo_pop	5

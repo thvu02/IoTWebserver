@@ -1,0 +1,7 @@
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:33:17:sys_now	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:38:6:NetWifiGetDefaultStation	6
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:72:9:scan_cmd	4
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:103:18:NetInterfaceOn	4
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:142:6:NetInterfaceOff	5
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:167:6:NetInterfaceConnect	10
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/WebServer/Target/net_interface.c:234:6:NetInterfaceDisconnect	5

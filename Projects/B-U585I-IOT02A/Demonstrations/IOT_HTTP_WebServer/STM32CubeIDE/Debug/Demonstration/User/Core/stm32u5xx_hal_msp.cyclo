@@ -1,0 +1,6 @@
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/stm32u5xx_hal_msp.c:32:6:HAL_MspInit	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/stm32u5xx_hal_msp.c:50:6:HAL_SPI_MspInit	3
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/stm32u5xx_hal_msp.c:91:6:HAL_SPI_MspDeInit	2
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/stm32u5xx_hal_msp.c:117:6:HAL_UART_MspInit	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/stm32u5xx_hal_msp.c:150:6:HAL_UART_MspDeInit	1
+C:/Users/trung/UCLA/VScode/iotwebserver/Projects/B-U585I-IOT02A/Demonstrations/IOT_HTTP_WebServer/Core/Src/stm32u5xx_hal_msp.c:167:6:HAL_LPTIM_MspInit	3
